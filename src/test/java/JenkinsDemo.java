@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public class JenkinsDemo
 {
-    private static String Base_Url = "http://www.google.com/xhtml";
+    private static String Base_Url = "C:\Users\priyad\Downloads\chromedriver_win32";
     private WebDriver driver;
 
     @Before
