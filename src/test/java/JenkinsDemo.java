@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public class JenkinsDemo
 {
-    private static String Base_Url = "https://www.facebook.com";
+    private static String Base_Url = "http://www.google.com/xhtml";
     private WebDriver driver;
 
     @Before
